@@ -1,2 +1,2 @@
 # hello-world
-this is a test creating a reporsitory
+This is a test creating a repository
